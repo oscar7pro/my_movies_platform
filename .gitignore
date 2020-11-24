@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+Supprimerait src/main/resources/static/
+Supprimerait src/main/resources/templates/
